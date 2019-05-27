@@ -24,4 +24,8 @@ public class Operaciones {
             millas = km * 0.621371;
             System.out.println(millas); 
     }
+    
+    public static void millasAKm(){
+    
+    }
 }
